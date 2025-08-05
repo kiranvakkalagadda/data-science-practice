@@ -11,6 +11,14 @@ from SQL/PLSQL to Data Science using Python and AI.
 **Project:** Banking Loan Dataset Cleaning & Outlier Detection  
 **Skills Learned:** Pandas, Numpy, Missing Value Handling, Boxplots, Data Cleaning  
 
+## 📅 Week 3
+**Project:** Loan Feature Engineering & Exploratory Data Analysis (EDA)  
+**Skills Learned:**  
+- Feature Engineering: `TotalIncome`, `EMI_Per_Income`  
+- Categorical Encoding with LabelEncoder  
+- Correlation Heatmaps  
+- Visual EDA: Countplots & Boxplots for Loan Approval Trends  
+
 ## Upcoming Weeks
 - Week 3: Feature Engineering & EDA (Exploratory Data Analysis)
 - Week 4: Data Visualization & Storytelling
